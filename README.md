@@ -1,6 +1,6 @@
-Project Jest
+# Project Jest
 
-Nesse projeto eu aprendi a como utiliza jest para fazer os testes
+Nesse projeto eu aprendi a como utiliza jest para fazer os testes, você pode ver o meu código no arquivo test
 
 # Os desafios eram 
 
