@@ -1,6 +1,6 @@
 # Project Jest
 
-Neste projeto, adquiri conhecimentos na utilização do framework Jest para implementar testes automatizados em minha aplicação. O arquivo "test" contém o código referente aos testes realizados.
+Neste projeto, adquiri conhecimentos na utilização do framework Jest para implementar testes automatizados em minha aplicação. O arquivo test contém o código referente aos testes realizados.
 
 # Os desafios eram 
 
