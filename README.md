@@ -4,8 +4,6 @@ Neste projeto, adquiri conhecimentos na utilização do framework Jest para impl
 
 # Os desafios eram 
 
-# Requisitos do projeto
-
 ### 1. Crie testes para uma função assíncrona
 
 Complete os testes do arquivo `test/asyncJest.spec.js` para que funcionem com código assíncrono.
